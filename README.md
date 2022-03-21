@@ -1,11 +1,13 @@
+## Designer Gráfico
+   Acadêmico de Análise e Desenvolvimento de Sistemas
+
+##
 <div align="center">
   <a href="https://github.com/ragdegoulart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragdegoulart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=24"/>
 </div>
-
-  
+ 
 ##
-  
   
 ### Interesses
 <div style="display: inline_block"><br>
