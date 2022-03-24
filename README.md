@@ -1,4 +1,5 @@
 ## Designer Gráfico
+
 Acadêmico de Análise e Desenvolvimento de Sistemas
 
 <br>
@@ -8,8 +9,9 @@ Acadêmico de Análise e Desenvolvimento de Sistemas
 </div>
 
 ##
-  
+
 ### Interests
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ragde-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ragde-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,7 +23,7 @@ Acadêmico de Análise e Desenvolvimento de Sistemas
 ##
 
 ### Follow me on 👋
-  
+
   <div>
   <a href="https://www.behance.net/ragdegoulart" target="_blank" style="border-radius:5px;overflow:hidden;">
     <image src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&border_radius=5">
