@@ -1,5 +1,5 @@
 ## Designer Gráfico
-   Acadêmico de Análise e Desenvolvimento de Sistemas
+Acadêmico de Análise e Desenvolvimento de Sistemas
 
 <br>
 <div align="left">
