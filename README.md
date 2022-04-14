@@ -20,10 +20,8 @@ Acadêmico de Análise e Desenvolvimento de Sistemas
   <img align="center" alt="ragde-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ragde-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-
+ 
 ##
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" width="42"/>
 
 ### Follow me on 👋
 
