@@ -23,7 +23,7 @@ Acadêmico de Análise e Desenvolvimento de Sistemas
 
 ##
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" width="42"/>
 
 ### Follow me on 👋
 
