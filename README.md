@@ -1,4 +1,4 @@
-## Designer Gráfico
+## UX/UI Designer | Product Designer
 
 Acadêmico de Análise e Desenvolvimento de Sistemas
 
