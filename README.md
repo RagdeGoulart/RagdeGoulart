@@ -1,6 +1,6 @@
 ## UX/UI Designer | Product Designer
 
-Atualmente ocupo a posição de Product Designer Pleno na Orange Labs. Sou formado em Análise e Desenvolvimento de Sistemas e Certificado em UX Designer, e tenho mais de 5 anos de experiência colaborando no desenvolvimento de produtos digitais.
+Formado em Análise e Desenvolvimento de Sistemas e Certificado em UX Designer, mais de 5 anos de experiência colaborando no desenvolvimento de produtos digitais.
 Possuo experiência em criação de soluções para desktop e mobile, bem como em sistemas de PDV. Com minha graduação em Desenvolvimento de Sistemas possuo uma base de conhecimento em tecnologia, o que me permite trabalhar de forma eficiente em projetos tanto do ponto de vista técnico quanto do ponto de vista de design.
 Dentro da área de design, tenho direcionado meus interesses para o Design System e a Desenvolvimento NoCode.
 
